@@ -1,0 +1,24 @@
+.urunler {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .urun {
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+  }
+  
+  .urun-adi {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .urun-fiyati {
+    font-weight: bold;
+  }
+  
+  #fiyat-filtresi {
+    margin-top: 20px;
+  }
+  
